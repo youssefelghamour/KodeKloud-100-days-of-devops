@@ -45,7 +45,7 @@ cut -d: -f1 /etc/passwd
 Or inspect full entry:
 
 ```bash
-cat /etc/passwd | grep rose
+cat /etc/passwd | grep ravi
 ```
 
 Expected shell field:
