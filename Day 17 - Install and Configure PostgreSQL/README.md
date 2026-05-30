@@ -49,4 +49,4 @@ kodekloud_db4=>
 ```
 
 ## Screenshot
-![day-18-screenshot](day-18-screenshot.png)
+![day-17-screenshot](day-17-screenshot.png)
