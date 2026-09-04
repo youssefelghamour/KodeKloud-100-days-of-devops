@@ -53,3 +53,9 @@ This section focuses on configuration management and fleet automation. I use ide
 
 ### [terraform](./terraform)
 This part is about Infrastructure as Code (IaC). I use configuration files to provision and manage the actual servers, networks, and storage from scratch. This approach allows the entire foundation of the datacenter to be versioned and deployed automatically through code.
+
+## Certification
+
+![100 Days of DevOps Certificate](KodeKlous%20Engineer%20-%20100%20Days%20of%20DevOps.jpg)
+
+[Verify Certificate](https://engineer.kodekloud.com/certificate-verification/50cc0abe-ba84-4355-9621-210ff167b7d3)
